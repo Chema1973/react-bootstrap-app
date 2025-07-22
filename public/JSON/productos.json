@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Don Quijote de la Mancha",
+        "precio": 19.99
+    },
+    {
+        "id": 2,
+        "name": "Moby Dick",
+        "precio": 15.50
+    },
+    {
+        "id": 3,
+        "name": "Orgullo y Prejuicio",
+        "precio": 12.75
+    },
+    {
+        "id": 4,
+        "name": "Crimen y Castigo",
+        "precio": 17.80
+    },
+    {
+        "id": 5,
+        "name": "Cien Años de Soledad",
+        "precio": 21.00
+    },
+    {
+        "id": 6,
+        "name": "La Odisea",
+        "precio": 14.60
+    },
+    {
+        "id": 7,
+        "name": "Hamlet",
+        "precio": 11.90
+    },
+    {
+        "id": 8,
+        "name": "El Gran Gatsby",
+        "precio": 13.40
+    },
+    {
+        "id": 9,
+        "name": "En busca del tiempo perdido",
+        "precio": 22.30
+    },
+    {
+        "id": 10,
+        "name": "La Divina Comedia",
+        "precio": 18.25
+    }
+]
