@@ -1,6 +1,11 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
+function validarTelefono(numero) {
+    // Valida si el número es una cadena de exactamente 8 dígitos numéricos
+    return /^\d{8}$/.test(numero);
+}
+
 const ComponenteLista = ({ items }) => {
 
     // Crea una lista de productos basados en un array
